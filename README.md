@@ -28,9 +28,8 @@ This project automatically scans an AWS account on a schedule to spot common sec
 ## How to Deploy
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/aws-automated-access-review.git](https://github.com/your-username/aws-automated-access-review.git)
-   cd aws-automated-access-review
-
+  
+   git clone  https://github.com/Omar1l/AWS-Automated-Access-Review.git
 
 Verify your email in Amazon SES.
 
