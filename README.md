@@ -35,4 +35,5 @@ This project automatically scans an AWS account on a schedule to spot common sec
 Verify your email in Amazon SES.
 
 Run the deployment script:
+```bash
 ./scripts/deploy.sh --email your-email@example.com --region us-east-1
