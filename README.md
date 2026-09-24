@@ -30,3 +30,9 @@ This project automatically scans an AWS account on a schedule to spot common sec
    ```bash
    git clone [https://github.com/your-username/aws-automated-access-review.git](https://github.com/your-username/aws-automated-access-review.git)
    cd aws-automated-access-review
+
+
+Verify your email in Amazon SES.
+
+Run the deployment script:
+./scripts/deploy.sh --email your-email@example.com --region us-east-1
